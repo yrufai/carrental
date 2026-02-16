@@ -24,8 +24,7 @@ function Contact() {
                 yrufai23gmail.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Accra,
-                Ghana
+                <i className="fa-solid fa-location-dot"></i>&nbsp; Washinton D.C, USA
               </a>
             </div>
             <div className="contact-div__form">

@@ -24,10 +24,10 @@ This project demonstrates modern frontend development practices including reusab
 
 ## 🛠 Tech Stack
 
-* ⚛️ React (Create React App)
+* ⚛️ React JS
 * 📦 react-scripts
 * 🧠 JavaScript (ES6+)
-* 🎨 CSS
+* 🎨 SCSS
 * 📁 Component-based architecture
 
 ---

@@ -33,7 +33,7 @@ function Testimonials() {
                   <div className="all-testimonials__box__name__profile">
                     <img src={Img2} alt="user_img" />
                     <span>
-                      <h4>Yakubu Ahmed Elrufai</h4>
+                      <h4>Yakubu Rufai</h4>
                       <p>Accra</p>
                     </span>
                   </div>

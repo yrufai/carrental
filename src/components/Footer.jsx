@@ -15,7 +15,7 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; +233247005514
+                  <i className="fa-solid fa-phone"></i> &nbsp; +12404382456
                 </a>
               </li>
 
@@ -34,9 +34,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/yrufai"
+                  href="https://github.com/yrufai/carrental"
                 >
-                  Design by El Studio
+                  Design by yrufai Studio
                 </a>
               </li>
             </ul>
